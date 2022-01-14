@@ -1,0 +1,23 @@
+.header__container {
+  max-width: 1140px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  padding-top: 19px;
+  padding-bottom: 19px;
+}
+
+.header__container__logo > span {
+  margin-right: 64px;
+  font-size: 24px;
+  font-weight: 800;
+  vertical-align: middle;
+}
+
+.header__container__navbar {
+  margin-right: 316px;
+}
+
+.header__container__navbar > a {
+  text-decoration: none;
+}
